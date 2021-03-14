@@ -1,2 +1,2 @@
 # Unity_Project
- Computer Graphics Project
+ Computer Graphics Unity Project
